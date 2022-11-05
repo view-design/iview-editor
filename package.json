@@ -42,7 +42,7 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "^3.9.3",
     "gulp-less": "^4.0.0",
     "gulp-rename": "^1.2.2",
